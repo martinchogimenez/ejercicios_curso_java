@@ -1,2 +1,15 @@
 # ejercicios_curso_java
-Ejercicios de programación con Java realizados en el curso brindado por la UTN
+Ejercicios de programación con Java realizados en el curso brindado por la UTN (Abril- Mayo 2022)
+
+# sobre mi
+Martín Augusto Gimenez Artero
+
+Soy una persona autodidacta, que le gusta encarar nuevos
+desafíos, proactiva, creativa, de rápido aprendizaje.
+Siempre estoy en constante crecimiento e incorporando
+habilidades nuevas. Poseo skills muy valorados, tanto en lo
+soft como en lo hard, incluyendo conocimientos
+en programación y en testing manual y automatizado. Hice proyectos y capacitaciones en empresas reconocidas
+
+Linkedin:
+https://www.linkedin.com/in/martin-gimenez-/
