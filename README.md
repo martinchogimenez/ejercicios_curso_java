@@ -1,7 +1,7 @@
 # ejercicios_curso_java
 Ejercicios de programación con Java realizados en el curso brindado por la UTN (Abril- Mayo 2022)
 
-# sobre mi
+# Sobre mi
 Martín Augusto Gimenez Artero
 
 Soy una persona autodidacta, que le gusta encarar nuevos
