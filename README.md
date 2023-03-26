@@ -1,5 +1,20 @@
 # ejercicios_curso_java
-Ejercicios de programación con Java realizados en el curso brindado por la UTN (Abril- Mayo 2022)
+Ejercicios de programación con Java realizados en el curso brindado por la UTN (Abril- Mayo 2022).
+
+Temas:
+
+POO-
+Clases
+Herencia
+Polimorfismo
+Encapsulamiento
+Abstracción
+Tratamiento de excepciones
+Constructores
+Diagramas de clases
+Diseño de Bases de Datos relacionales
+Introdudcción a hibernate
+Introducción a Springboot
 
 # Sobre mi
 Martín Augusto Gimenez Artero
