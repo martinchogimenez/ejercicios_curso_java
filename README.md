@@ -15,6 +15,8 @@ Diagramas de clases-
 Diseño de Bases de Datos relacionales-
 Introdudcción a hibernate-
 Introducción a Springboot-
+Capas de una aplicación-
+DAO-
 
 # Sobre mi
 Martín Augusto Gimenez Artero
